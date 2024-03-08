@@ -41,8 +41,9 @@ The dataset heart_failure.csv must include the following columns:
 ## Setup
 
 To run this project, install the above requirements using pip:
-
+```bash
 pip install pandas scikit-learn tensorflow
+```
 
 Ensure you have the heart_failure.csv dataset in your project directory.
 
